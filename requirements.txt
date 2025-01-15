@@ -1,0 +1,5 @@
+snakemake
+bcftools
+samtools
+#pip install -r requirements.txt
+#conda install -c bioconda samtools bcftools
